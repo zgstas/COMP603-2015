@@ -1,6 +1,6 @@
-What does it mean for two sets to be disjoint?
+1. What does it mean for two sets to be disjoint?
+> Two sets are disjointed when they do not share members.
 
-
-
-What is the union of two sets?
+2. What is the union of two sets?
+> The set of all members that are present in both sets.
 
